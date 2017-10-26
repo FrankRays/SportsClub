@@ -1,7 +1,7 @@
-﻿<Application x:Class="SportsClub.App"
+﻿<Application x:Class="SportsClub.UI.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SportsClub"
+             xmlns:local="clr-namespace:SportsClub.UI"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
